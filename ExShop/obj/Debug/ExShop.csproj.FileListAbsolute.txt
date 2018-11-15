@@ -1,0 +1,7 @@
+C:\Users\arek9\source\repos\ExShop\ExShop\bin\Debug\ExShop.exe.config
+C:\Users\arek9\source\repos\ExShop\ExShop\bin\Debug\ExShop.exe
+C:\Users\arek9\source\repos\ExShop\ExShop\bin\Debug\ExShop.pdb
+C:\Users\arek9\source\repos\ExShop\ExShop\obj\Debug\ExShop.csprojAssemblyReference.cache
+C:\Users\arek9\source\repos\ExShop\ExShop\obj\Debug\ExShop.csproj.CoreCompileInputs.cache
+C:\Users\arek9\source\repos\ExShop\ExShop\obj\Debug\ExShop.exe
+C:\Users\arek9\source\repos\ExShop\ExShop\obj\Debug\ExShop.pdb
