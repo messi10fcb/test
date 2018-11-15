@@ -11,7 +11,7 @@ namespace ExShop
             TotalPrice = 0;
             SelectedItems = new List<Item>();
         }
-
+        //sfdad
         public static int ItemsInBasket { get; set; }
         public static List<Item> SelectedItems { get; set; }
         public static double TotalPrice { get; set; }
